@@ -1,4 +1,4 @@
-import axios from "axios"
+import axio from "axio"
 
 const api = axios.create({
     baseURL: "https://viacep.com.br/ws/"
