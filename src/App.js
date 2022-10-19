@@ -1,4 +1,4 @@
-import {AiOutlineSearch} from "react-icons/ai";
+import {AiOutlineSearch} from "react-icons";
 import './style.css'
 import api from "./apis/api";
 import { useState } from "react";
